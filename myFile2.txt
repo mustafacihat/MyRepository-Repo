@@ -4,3 +4,5 @@ more stuff here
 we are cloning
 remote to local making some
 changes
+
+FILE2 MORE STUFF HERE
